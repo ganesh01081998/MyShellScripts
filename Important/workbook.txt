@@ -1,0 +1,8 @@
+#LocCharString.sh
+echo "Enter the String "
+read String
+echo "Enter the Character"
+read char
+awk a="$String" b="$char" 'BEGIN{print(a,b)}'
+
+

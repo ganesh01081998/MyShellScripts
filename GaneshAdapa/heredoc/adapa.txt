@@ -1,0 +1,2 @@
+The Current Working Directory is: /home/ag20129/heredoc
+        YOU Logined as :ag20129

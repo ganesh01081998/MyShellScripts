@@ -1,0 +1,8 @@
+cat << EOF  > file.txt 
+Present Working directory:$PWD
+Long listing of files:($PWD$(ls -lrt))
+Today time and date: $(date)
+Today Calender is : $(cal)
+
+EOF
+

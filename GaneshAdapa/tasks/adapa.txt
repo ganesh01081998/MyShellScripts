@@ -1,0 +1,24 @@
+Present Working directory:/home/ag20129/tasks
+Long listing of files:(/home/ag20129/taskstotal 48
+-rwxrwxr-x. 1 ag20129 ag20129 183 Sep 14 12:41 agevote.sh
+-rwxrwxr-x. 1 ag20129 ag20129 200 Sep 14 15:31 fact.sh
+-rwxrwxr-x. 1 ag20129 ag20129 348 Sep 14 15:44 arith.sh
+-rwxrwxr-x. 1 ag20129 ag20129 226 Sep 14 15:45 prime.sh
+-rwxrwxr-x. 1 ag20129 ag20129  73 Sep 15 15:57 newline.sh
+-rwxrwxr-x. 1 ag20129 ag20129   0 Sep 15 16:08 here1.sh
+-rwxrwxr-x. 1 ag20129 ag20129 101 Sep 15 16:50 here.sh
+-rwxrwxr-x. 1 ag20129 ag20129  62 Sep 15 23:01 heredoc2.sh
+-rwxrwxr-x. 1 ag20129 ag20129 105 Sep 16 11:17 heredoc.sh
+-rwxrwxr-x. 1 ag20129 ag20129 155 Sep 16 11:19 heredoc1.sh
+-rwxrwxr-x. 1 ag20129 ag20129  63 Sep 16 11:27 heredoc3.sh
+-rwxrwxr-x. 1 ag20129 ag20129  83 Sep 16 11:28 heredemo6.sh
+-rwxrwxr-x. 1 ag20129 ag20129 156 Sep 16 14:47 samp.sh)
+Today time and date: Wed Sep 16 14:47:10 IST 2020
+Today Calender is :    September 2020   
+Su Mo Tu We Th Fr Sa
+       1  2  3  4  5
+ 6  7  8  9 10 11 12
+13 14 15 16 17 18 19
+20 21 22 23 24 25 26
+27 28 29 30
+
